@@ -20,7 +20,6 @@ Plug 'tommcdo/vim-lion'
 Plug 'Shirk/vim-gas'
 Plug 'ntpeters/vim-better-whitespace'
 Plug 'marko-cerovac/material.nvim'
-Plug 'bling/vim-airline'
 " List ends here. Plugins become visible to Vim after this call."
 call plug#end()
 
